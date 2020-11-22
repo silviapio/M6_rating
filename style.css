@@ -1,0 +1,25 @@
+body {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.outer-container {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+.heart {
+    color: gray;
+}
+
+.redOnHover {
+    color: red;
+}
+
+.grayNotFocus {
+    color: gray;
+}
